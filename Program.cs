@@ -1,2 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Stopwath
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+
+        static void Start()
+        {
+            int time = 10;
+            int currentTime = 0;
+
+            while (currentTime != time)
+            {
+                currentTime++;
+            }
+        }
+    }
+}
