@@ -1,0 +1,15 @@
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\bin\Debug\net6.0\Stopwath.exe
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\bin\Debug\net6.0\Stopwath.deps.json
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\bin\Debug\net6.0\Stopwath.runtimeconfig.json
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\bin\Debug\net6.0\Stopwath.dll
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\bin\Debug\net6.0\Stopwath.pdb
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.csproj.AssemblyReference.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.AssemblyInfoInputs.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.AssemblyInfo.cs
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.csproj.CoreCompileInputs.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.dll
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\refint\Stopwath.dll
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.pdb
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\Stopwath.genruntimeconfig.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\Stopwath\obj\Debug\net6.0\ref\Stopwath.dll

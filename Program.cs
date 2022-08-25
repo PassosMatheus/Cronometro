@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Stopwath
 {
@@ -6,7 +7,7 @@ namespace Stopwath
     {
         static void Main(string[] args)
         {
-
+            Start();
         }
 
         static void Start()
@@ -16,7 +17,10 @@ namespace Stopwath
 
             while (currentTime != time)
             {
+                Console.Clear();
                 currentTime++;
+                Console.WriteLine(currentTime);
+                Thread.Sleep(1000);
             }
         }
     }
